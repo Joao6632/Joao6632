@@ -23,7 +23,7 @@ Me chamo João Victor, tenho 16 anos e sou natural do Maranhão, atualmente vivo
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <p>
     <img 
@@ -48,7 +48,7 @@ Me chamo João Victor, tenho 16 anos e sou natural do Maranhão, atualmente vivo
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <table>
   <tr>
@@ -56,14 +56,14 @@ Me chamo João Victor, tenho 16 anos e sou natural do Maranhão, atualmente vivo
       <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Joao6632&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao6632&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       />
     </td>
     <td>
       <img 
         alt="Linguagens mais usadas" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao6632&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joao6632&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
     </td>
   </tr>
