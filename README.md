@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web em formação`**
 
-Me chamo João Victor, tenho 16 anos e sou natural do Maranhão, atualmente vivo na capital do Brasil. Estou cursando ensino médio e um curso técnico em desenvolvimento de sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento com amigos e colegas.
+Me chamo João Victor, tenho 17 anos e sou natural do Maranhão, atualmente vivo na capital do Brasil. Estou cursando ensino médio e um curso técnico em desenvolvimento de sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento com amigos e colegas.
 
 <p align="left">
     <a href="https://github.com/Joao6632?tab=followers">
