@@ -48,7 +48,7 @@ Me chamo João Victor, tenho 17 anos e sou natural do Maranhão, atualmente vivo
         alt="Java" 
         title="Java" 
         width="40px" 
-        src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
 </p>
 
